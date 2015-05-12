@@ -1,3 +1,3 @@
-# AAD117--Brand-Guidelines
+# AAD117-Brand-Guidelines
 
-[Ucommon Knowledge Brand Guidelines]
+##Uncommon Knowledge Brand Guidelines
