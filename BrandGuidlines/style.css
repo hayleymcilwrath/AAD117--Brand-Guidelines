@@ -1,0 +1,416 @@
+/* style reset*/
+        
+        * {
+        padding: 0;
+        margin: 0;
+        font-size: 100%;
+        line-height: 1em;
+        }
+
+
+
+/* Layout */
+
+
+
+header {
+        font-family: 'Helvetica Neue';
+        margin: 30px 0 50px 0;
+}
+       
+img.logo-header { 
+        display: block;
+        margin: 0 auto;
+    }
+       
+        
+    
+
+
+h1.introduction {
+        font-family: "Helvetica Neue";
+        font-size: 70px;
+        padding: 10px;
+        line-height: 5px;
+        padding: 40px 0 40px 0;
+        text-align: center;
+       
+}
+ h2.title {
+        font-family:  "Helvetica Neue" serif;
+        font-size: 80px;
+        text-align: center;
+        padding: 40px 0 40px 0;
+        line-height: 60px;
+        color:  #E9551B;
+
+   }
+
+h3.tagline {
+            font-family:  "Helvetica Neue";
+            font-size: 30px;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            line-height: 60px;
+            border-bottom: 3px solid #000000;
+            width: 80%;
+            margin: 0 auto;
+}
+
+section {
+    padding: 40px 260px 40px 260px;
+}
+
+
+section.orange {    
+                background: #F7A712;
+                max-width: 100%;
+                
+}
+
+
+
+
+
+section.white {
+    
+                 background: #Ffffff;
+                max-width: 100%;
+
+}
+
+
+
+
+
+section.darkorange {    
+                background: #E9551B;
+                max-width: 100%;
+
+                margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+img.logo-guidelines {
+                     margin: 0 auto;
+                  display: block;
+                    padding margin-bottom: 20px;
+
+}
+
+
+/*headers*/
+
+  
+       
+   
+
+
+h2 { 
+    
+    font-size: 35px;
+    font-family:  "Helvetica Neue";
+    color: #000000;
+     padding: 0 0 10px 0;
+    
+    
+    
+}
+   
+h3 {
+      font-size: 25px;
+         padding: 0 0 10px 0;
+    font-family:  "Helvetica Neue";
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+
+p { font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.6px;
+    font-family: "Myriad Pro";
+ 
+
+
+
+
+}
+
+p.header1 { font-family: "Helvetica Neue";
+          font-size: 60px;
+          padding: 20px;
+    padding-top: 40px;
+
+
+
+}
+
+p.header2 { font-size: 35px;
+    font-family:  "Helvetica Neue";
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 30px
+}
+
+p.header3 { font-size: 28px;
+    font-family:  "Helvetica Neue";
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 30px
+
+
+
+
+}
+
+p.para { font-size: 20px;
+    font-family:  "Helvetica Neue";
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 30px
+
+
+
+
+}
+
+
+h3.merch  { margin-top; 80px;
+
+
+}
+
+
+img.colour-image {
+                  margin: 0 auto;
+                  display: block;
+
+}
+
+img.vertical {
+               margin:0 auto;
+                display: block;
+}
+
+img.horizontal {
+               margin: 0 auto;
+                display: block;
+                padding-top: 50px;
+                padding-bottom: 40px
+
+}
+
+img.main-logo {
+                margin: 0 auto;
+                display: block;
+                padding-top: 50px;
+                padding-bottom: 40px;
+                
+
+
+}
+
+img.do-dont {  margin: 0 auto;
+                display: block;
+                padding-top: 50px;
+
+
+}
+
+img.logo { margin: 0 auto;
+                display: block;
+                padding-top: 50px;
+
+
+}
+
+img.white-space { margin: 0 auto;
+                display: block;
+                padding-top: 50px;
+                padding-bottom: 50PX;
+
+
+
+}
+
+img.icons { margin:-60px;
+             padding-top: 60px;
+
+
+
+
+}
+
+img.mockup { margin: 0 auto;
+                display: block;
+
+
+
+
+
+}
+
+p.Helvetica { font-family: "Helvetica Neue";
+          font-size: 40px;
+          padding: 25px;
+
+
+
+} 
+
+
+
+
+
+p.Myriad-Pro { font-family:  "Myriad Pro";
+                    font-size: 40px;
+                      padding: 25px; 
+                    padding-bottom: 20px
+
+
+
+}
+
+
+p.colour-scheme { margin: 0 auto;
+                display: block;
+
+
+
+
+}
+     
+
+
+
+}
+
+p.para { font-size: 20px;
+    font-family:  "Helvetica Neue";
+    color: #000000;
+    padding-top: 60px; 
+
+
+
+}
+
+blockquote.strapline; { 
+    
+            text-align: justify, center;
+            letter-spacing: 1px;
+            color: rgba(0, 0, 0, 0.96);
+            font-style: oblique;
+
+
+
+}
+
+/*list*/
+
+ol {  padding: 20px;
+      
+}
+
+li {  padding: 10px;
+      font-family:  "Myriad Pro";
+      font-size: 20px
+      
+
+
+
+}
+
+h3.Helvetica1 { padding-top: 20px;
+    
+
+
+
+}
+
+
+
+/*nav*/
+
+        a {     
+            color:  #F7A712;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: "Myria Pro", sans-serif;
+            
+        }
+        
+        a:hover {
+            
+            text-decoration: underline;
+            color: black;
+        }
+ 
+     
+            nav ul {
+            text-align: center;
+            list-style-type: none;
+            padding: 0 0 50px 0 ;
+            
+        }
+    
+        nav ul li {
+            display: inline;
+            margin-left: 20px;
+            color: 'black';
+        }
+
+/* Responsive Design */
+
+@media all and (max-width: 800px) {
+    
+    h1.introduction {
+        font-family: "Helvetica Neue";
+        font-size: 40px;
+        padding: 10px;
+        line-height: 5px;
+        padding: 40px 0 40px 0;
+        text-align: center;
+       
+}
+ h2.title {
+        font-family:  "Helvetica Neue", serif;
+        font-size: 45px;
+        text-align: center;
+        padding: 40px 0 40px 0;
+        line-height: 60px;
+        color:  #E9551B;
+
+   }
+
+h3.tagline {
+            font-family:  "Helvetica Neue", serif;
+            font-size: 30px;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            line-height: 60px;
+            border-bottom: 3px solid #000000;
+            width: 80%;
+            margin: 0 auto;
+}
+
+    section {
+    padding: 20px 15px 20px 15px;
+}
+
+    
+}
+            
+            
